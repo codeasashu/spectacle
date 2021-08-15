@@ -1,4 +1,5 @@
 import Deck from './components/deck';
+import DefaultDeck from './components/deck/default-deck';
 import Slide, { SlideContext } from './components/slide/slide';
 import Appear from './components/appear';
 import CodePane from './components/code-pane';
@@ -42,6 +43,7 @@ import { fadeTransition, slideTransition } from './components/transitions';
 export {
   Appear,
   Deck,
+  DefaultDeck,
   Slide,
   CodePane,
   Box,
