@@ -93,7 +93,6 @@
     "babel-plugin-transform-jsx-to-htm": "^2.0.0",
     "builder": "^4.0.0",
     "enzyme": "^3.10.0",
-    "enzyme-adapter-react-16": "^1.15.1",
     "enzyme-to-json": "^3.4.3",
     "eslint": "^7.19.0",
     "eslint-config-prettier": "^6.11.0",
